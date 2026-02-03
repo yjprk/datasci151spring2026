@@ -6,6 +6,7 @@
 ## Peter's additions
 *.DS_Store
 *.ipynb_checkpoints
+ignore.*
 
 
 ##
