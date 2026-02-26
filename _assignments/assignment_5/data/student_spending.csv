@@ -1,0 +1,51 @@
+day,category,amount,payment_method,necessary
+1,Coffee,6,Debit,N
+2,Groceries,84,Debit,Y
+3,Uber Eats,27,Credit,N
+4,Gas,48,Debit,Y
+5,Amazon,145,Credit,N
+6,Boba,8,Cash,N
+7,Target,132,Debit,N
+8,Groceries,91,Debit,Y
+9,Uber Eats,34,Credit,N
+10,Coffee,7,Debit,N
+11,Gas,52,Debit,Y
+12,Amazon,210,Credit,N
+13,Groceries,88,Debit,Y
+14,Boba,9,Cash,N
+15,Target,158,Credit,N
+16,Uber Eats,29,Credit,N
+17,Coffee,5,Debit,N
+18,Gas,46,Debit,Y
+19,Amazon,175,Credit,N
+20,Groceries,95,Debit,Y
+21,Uber Eats,31,Credit,N
+22,Boba,7,Cash,N
+23,Target,120,Debit,N
+24,Gas,50,Debit,Y
+25,Coffee,6,Debit,N
+26,Amazon,190,Credit,N
+27,Groceries,102,Debit,Y
+28,Uber Eats,33,Credit,N
+29,Boba,8,Cash,N
+30,Target,165,Credit,N
+31,Gas,49,Debit,Y
+32,Coffee,7,Debit,N
+33,Amazon,220,Credit,N
+34,Groceries,93,Debit,Y
+35,Uber Eats,30,Credit,N
+36,Boba,6,Cash,N
+37,Target,142,Credit,N
+38,Gas,53,Debit,Y
+39,Coffee,5,Debit,N
+40,Amazon,180,Credit,N
+41,Groceries,97,Debit,Y
+42,Uber Eats,36,Credit,N
+43,Boba,9,Cash,N
+44,Target,150,Credit,N
+45,Gas,51,Debit,Y
+46,Coffee,6,Debit,N
+47,Amazon,205,Credit,N
+48,Groceries,89,Debit,Y
+49,Uber Eats,32,Credit,N
+50,Boba,8,Cash,N
