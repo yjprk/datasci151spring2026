@@ -1,0 +1,5 @@
+Files taken from:
+
+https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present
+
+NOTE: Two .csv files are too large for GitHub and are posted on Canvas
